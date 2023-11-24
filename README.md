@@ -8,9 +8,13 @@
 
 ### Project
 > ESTSoft 프로젝트 (예정)
-> Monte Carlo Denoising 
+
+> Monte Carlo Denoising
+
 > Visibility Enhancement
+
 > Real-time Helmet Detection for Regulating the Use of Electric Scooters (2021.09 - 2021.12)
+
 > Body KeyPoint Detection and Pose Similarity Measurement for Home Training (2020.09 - 2021.01)
 
 ### Skill set
