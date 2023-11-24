@@ -4,4 +4,4 @@
 ***
 
 ### Skill set
-Excel, PowerBI, MySQL, Markdown, Python
+Excel, PowerBI, MySQL, Markdown, Python, Git
