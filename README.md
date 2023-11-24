@@ -7,7 +7,7 @@
 ### 자기소개
 
 ### Project
-> (예정) ESTSoft 프로젝트
+> (예정) ESTSoft 서비스 기획 프로젝트
 
 > (2022.05 - 2023.04) 그래픽 영상을 위한 실시간 디노이징 알고리즘 연구
 
@@ -21,4 +21,6 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/power bi-F2C811?style=for-the-badge&logo=power bi&logoColor=white"> <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft excel&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### Education
-* 이스트소프트 인공지능서비스기획 KDT WASSUP 1기 (2023.10 ~ ongoing)
+* (2023.10 - ongoing) 이스트소프트 인공지능서비스기획 KDT WASSUP 1기 
+* (2021.03 - 2023.02)
+* (2017.03 - 2021.02)
