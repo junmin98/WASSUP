@@ -4,8 +4,17 @@
 
 
 ***
+### 자기소개
+
+### Project
+> ESTSoft 프로젝트 (예정)
+> Monte Carlo Denoising 
+> Visibility Enhancement
+> Real-time Helmet Detection for Regulating the Use of Electric Scooters (2021.09 - 2021.12)
+> Body KeyPoint Detection and Pose Similarity Measurement for Home Training (2020.09 - 2021.01)
 
 ### Skill set
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/power bi-F2C811?style=for-the-badge&logo=power bi&logoColor=white"> <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft excel&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-
+### Education
+* 이스트소프트 인공지능서비스기획 KDT WASSUP 1기 (2023.10 ~ ongoing)
