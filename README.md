@@ -7,15 +7,15 @@
 ### 자기소개
 
 ### Project
-> ESTSoft 프로젝트 (예정)
+> (예정) ESTSoft 프로젝트
 
-> Monte Carlo Denoising
+> (2022.05 - 2023.04) 그래픽 영상을 위한 실시간 디노이징 알고리즘 연구
 
-> Visibility Enhancement
+> (2021.08 - 2022.07) 햇빛 아래에서 디지털 디스플레이의 가시성 향상을 위한 이미지 개선 기법 연구
 
-> Real-time Helmet Detection for Regulating the Use of Electric Scooters (2021.09 - 2021.12)
+> (2021.09 - 2021.12) 홈 트레이닝을 위한 핵심점 검출 및 자세 유사도 측정 시스템 개발
 
-> Body KeyPoint Detection and Pose Similarity Measurement for Home Training (2020.09 - 2021.01)
+> (2020.09 - 2021.01) 전동 킥보드 규제를 위한 실시간 헬멧 검출 시스템 개발
 
 ### Skill set
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/power bi-F2C811?style=for-the-badge&logo=power bi&logoColor=white"> <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft excel&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
